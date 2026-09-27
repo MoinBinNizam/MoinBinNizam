@@ -3,7 +3,7 @@
 <h3 align="center">Senior Full-Stack Engineer | MERN • TypeScript • AI Workflows</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+B2B+Systems;AI-Augmented+Development+Expert;Performance+Driven+Engineer;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+B2B+Systems;AI-Augmented+Development+Expert;Performance+Driven+Engineer;Clean+Code+Adv[...]
 </p>
 
 ---
@@ -74,29 +74,38 @@ I’m a **result-driven Full-Stack Engineer** focused on building **scalable, hi
 
 ## 🏗️ Featured Projects
 
+### 🚚 LPG Distribution App
+- End-to-end field operations & distribution workflow
+- Built for operational visibility, reporting, and workflow automation
+- Strong frontend architecture and business-driven UI system
+
+---
+
 ### 🔐 Cybersecurity Compliance Portal
-- MERN + SQLite  
-- AI-generated audit logs  
-- Advanced RBAC system  
+- MERN + SQLite
+- AI-generated audit logs
+- Advanced RBAC system
 
 ---
 
 ### 💎 Jewelry Inventory & POS System
-- Real-time stock management  
-- Complex credit & production logic  
-- Fully responsive dashboard  
+- Real-time stock management
+- Complex credit & production logic
+- Fully responsive dashboard
 
 ---
 
 ### 🏢 NS Foundation Platform
-- Cooperative financial system  
-- Delivered production-ready in 3 months  
+- Cooperative financial and member management system
+- Production-ready platform delivered in a focused 3-month timeline
+- Built to support operational transparency and member workflows
 
 ---
 
 ### 🌾 Krishok Lagbe
-- Real-time service marketplace  
-- Optimized React state management  
+- Real-time service marketplace
+- Optimized React state management
+- User-focused marketplace experience for local service discovery
 
 ---
 
@@ -137,3 +146,5 @@ const moin = {
   mindset: ["system design", "performance", "automation"],
   edge: "AI-augmented engineering",
 };
+
+```
