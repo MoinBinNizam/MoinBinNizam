@@ -96,9 +96,11 @@ I’m a **result-driven Full-Stack Engineer** focused on building **scalable, hi
 ---
 
 ### 🏢 NS Foundation Platform
-- Cooperative financial and member management system
-- Production-ready platform delivered in a focused 3-month timeline
-- Built to support operational transparency and member workflows
+- Full-stack cooperative society management system for members, shares, contributions, investments, expense tracking, and annual governance workflows
+- Built with React 18 + TypeScript + Vite + Tailwind on the frontend and Node.js + Express + MongoDB on the backend
+- Implements secure role-based access for Super Admin, Admin, Accountant, and Member roles
+- Includes audit/security workspace, reconciliation, custody movement tracking, payment allocation workflows, and integrity checks for financial operations
+- Delivers a production-ready, auditable platform designed for governance, reporting, and member financial operations
 
 ---
 
