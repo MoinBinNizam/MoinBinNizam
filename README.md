@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">🚀 Moin Uddin</h1>
-<h3 align="center">Senior Full-Stack Engineer | MERN • TypeScript • AI Workflows</h3>
+<h3 align="center">Full-Stack Engineer | MERN • TypeScript • AI Workflows</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+B2B+Systems;AI-Augmented+Development+Expert;Performance+Driven+Engineer;Clean+Code+Adv[...]
